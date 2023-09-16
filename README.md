@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola! Soy un desarrollador de software de 23 años que vive en Málaga. Tengo una pasión por la programación y la tecnología, y he estado trabajando en diversos proyectos de desarrollo de software desde que comencé mi carrera. Mi objetivo es crear soluciones innovadoras y eficientes que ayuden a resolver problemas del mundo real. Disfruto aprendiendo nuevas tecnologías y manteniéndome al tanto de las últimas tendencias en el mundo de la programación. En mi tiempo libre, me gusta explorar Málaga y disfrutar de su hermoso clima y paisajes. Estoy emocionado por lo que el futuro tiene reservado para mí en el mundo de la tecnología y el desarrollo de software.
+Soy un estudiante de último año con una pasión por el desarrollo de software y un firme compromiso con el aprendizaje continuo y la adopción de nuevas tecnologías. Actualmente, estoy a punto de completar mi grado en Desarrollo de Aplicaciones Web. Además, formo parte de la comunidad de estudiantes en el campus 42, reconocido como uno de los centros de programación más innovadores a nivel mundial. Mi enfoque principal en 42 se centra en el backend utilizando el lenguaje C, junto con la exploración de otras tecnologías relevantes en el campo.
 
 
 ## 🌐 Socials:
