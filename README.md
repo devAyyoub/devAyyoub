@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre mí:
 Soy un estudiante de último año con una pasión por el desarrollo de software y un firme compromiso con el aprendizaje continuo y la adopción de nuevas tecnologías. Actualmente, estoy a punto de completar mi grado en Desarrollo de Aplicaciones Web. Además, formo parte de la comunidad de estudiantes en el campus 42, reconocido como uno de los centros de programación más innovadores a nivel mundial. Mi enfoque principal en 42 se centra en el backend utilizando el lenguaje C, junto con la exploración de otras tecnologías relevantes en el campo.
 
 
-## 🌐 Socials:
+## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayyoub-amjahed-abed-06846b290) 
 
 # 💻 Tech Stack:
