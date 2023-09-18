@@ -1,5 +1,5 @@
-# 💫 Sobre mí:
-Soy un estudiante de último año con una pasión por el desarrollo de software y un firme compromiso con el aprendizaje continuo y la adopción de nuevas tecnologías. Actualmente, estoy a punto de completar mi grado en Desarrollo de Aplicaciones Web. Además, formo parte de la comunidad de estudiantes en el campus 42, reconocido como uno de los centros de programación más innovadores a nivel mundial. Mi enfoque principal en 42 se centra en el backend utilizando el lenguaje C, junto con la exploración de otras tecnologías relevantes en el campo.
+# 💫
+https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif
 
 
 ## 🌐 Social:
