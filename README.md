@@ -1,5 +1,6 @@
 # 💫
-https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif
+![image](https://github.com/devAyyoub/devAyyoub/assets/84755795/37daa4b1-3478-41ee-a562-e03116d5e0ff)
+
 
 
 ## 🌐 Social:
