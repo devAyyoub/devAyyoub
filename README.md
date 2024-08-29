@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayyoub</h1>
 <h3 align="center">A passionate software engineer from Spain</h3>
 
-- 🔭 I’m currently working as software engineer in **Sogeti as**
+- 🔭 I’m currently working as software engineer in **Sogeti**
 
 - 🌱 My goal is to never stop **learning**
 
@@ -13,8 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/ayyoubamjahed.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ayyoubamjahed.com" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayyoub amjahed abed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayyoub amjahed abed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayyoub-amjahed-abed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayyoub amjahed abed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
