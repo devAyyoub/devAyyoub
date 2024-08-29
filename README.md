@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Ayyoubamjahed@gmail.com**
 
-- 🥊 In my free time, I am a an **amateur boxer**
+- 🥊 In my free time, I'm an **amateur boxer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
