@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ayyoub</h1>
-<h3 align="center">Just a programmer</h3>
+<h1 align="center">Hi 👋, I'm Ayyoub</h1>  
+<h3 align="center">Passionate Software Engineer & Lifelong Learner</h3>  
 
-- 🔭 I’m currently working as software engineer in **Sogeti**
+- 🔭 Currently contributing as a **Software Engineer at Sogeti**, delivering innovative solutions in the SogetLabs department.
 
-- 🌱 My goal is to never stop **learning**
+- 🌱 Driven by the belief that **learning never ends**, always exploring new technologies and methodologies
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯 Excited to collaborate on **open-source projects** to share knowledge and grow with the community
 
-- 📫 How to reach me **Ayyoubamjahed@gmail.com**
+- 📫 Feel free to reach out at: **Ayyoubamjahed@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
