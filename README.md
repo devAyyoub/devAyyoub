@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **Ayyoubamjahed@gmail.com**
 
-- 🥊 In my free time, I'm an **amateur boxer**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayyoub-amjahed-abed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayyoub amjahed abed" height="30" width="40" /></a>
