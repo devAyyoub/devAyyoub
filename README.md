@@ -1,6 +1,4 @@
-<div align=center>
 <h3>Hi, I'm Ayyoub 💻</h3>
-</div>
 <h3>Software Engineer and Lifelong Learner  </h3>
 
 - Currently working at **Sogeti**, focusing on innovative solutions within SogetLabs.  
