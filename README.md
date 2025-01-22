@@ -1,7 +1,7 @@
 <div align=center>
-<h2>Hi, I'm Ayyoub 💻</h2>
+<h3>Hi, I'm Ayyoub 💻</h3>
 </div>
-**Software Engineer and Lifelong Learner**  
+<h3>Software Engineer and Lifelong Learner  </h3>
 
 - Currently working at **Sogeti**, focusing on innovative solutions within SogetLabs.  
 - Committed to continuous learning and professional growth.  
