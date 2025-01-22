@@ -1,15 +1,11 @@
-<h1 align="center">Hi, I'm Ayyoub</h1>  
-<h3 align="center">Passionate Software Engineer & Lifelong Learner</h3>  
+# Hi, I'm Ayyoub  
+**Software Engineer and Lifelong Learner**  
 
-- 🔭 Currently contributing as a **Software Engineer at Sogeti**, delivering innovative solutions in the SogetLabs department.
-
-- 🌱 Driven by the belief that **learning never ends**, always exploring new technologies and methodologies
-
-- 💻 Programming isn’t just my profession—it’s also my hobby and a way to express creativity.
-
-- 👯 Excited to collaborate on **open-source projects** to share knowledge and grow with the community
-
-- 📫 Feel free to reach out at: **Ayyoubamjahed@gmail.com**
+Currently working at **Sogeti**, focusing on innovative solutions within SogetLabs.  
+Committed to continuous learning and professional growth.  
+Passionate about software development as both a profession and a creative pursuit.  
+Open to collaborations on open-source projects.  
+For inquiries, contact: **Ayyoubamjahed@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
