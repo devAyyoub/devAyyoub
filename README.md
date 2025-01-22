@@ -1,4 +1,4 @@
-# Hi, I'm Ayyoub  
+# Hi, I'm Ayyoub 💻
 **Software Engineer and Lifelong Learner**  
 
 - Currently working at **Sogeti**, focusing on innovative solutions within SogetLabs.  
@@ -7,7 +7,6 @@
 - Open to collaborations on open-source projects.  
 - For inquiries, contact: **Ayyoubamjahed@gmail.com** 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayyoub-amjahed-abed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayyoub amjahed abed" height="30" width="40" /></a>
 </p>
