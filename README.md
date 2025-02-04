@@ -1,5 +1,4 @@
 <h3>Hi, I'm Ayyoub 💻</h3>
-<h3>Software Engineer and Lifelong Learner  </h3>
 
 Currently working as a Software Engineer at Sogeti (Capgemini). Just a guy who likes programming, researching technologies, and stuff.
 
