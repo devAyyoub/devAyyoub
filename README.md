@@ -2,7 +2,7 @@
 
 <b>Currently working as a Software Engineer at Sogeti (Capgemini).</b>  
 Specialized in building scalable web applications using the MERN (MongoDB, Express, React, Node.js) and PERN (PostgreSQL, Express, React, Node.js) stacks with TypeScript.  
-Also experienced in designing robust backend architectures using Spring Boot with Java and microservices, applying OAuth2, JWT, Docker, and PostgreSQL.  
+Also experienced in designing robust backend architectures using Spring Boot with Java and microservices, applying OAuth2, JWT, Docker, and relational databases.  
 Just a guy who enjoys programming, exploring new technologies, and turning ideas into code.  
 Reach me at: Ayyoubamjahed@gmail.com
 
