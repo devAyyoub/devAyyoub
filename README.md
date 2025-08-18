@@ -1,6 +1,6 @@
 <h3>Hi, I'm Ayyoub 💻</h3>
 
-<p><strong>Currently a Software Engineer at Sogeti (Capgemini).</strong>  
+<p><strong>Currently working as a full stack software engineer at Sogeti (Capgemini).</strong>  
 I specialize in building scalable web applications using MERN (MongoDB, Express, React, Node.js) and PERN (PostgreSQL, Express, React, Node.js) stacks with TypeScript.  
 Experienced in designing robust backend architectures with Spring Boot (Java) and microservices, leveraging OAuth2, JWT, Docker, and relational databases.  
 Passionate about programming, exploring new technologies, and turning ideas into impactful code.</p>
