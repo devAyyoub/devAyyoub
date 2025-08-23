@@ -18,7 +18,6 @@ Passionate about programming, exploring new technologies, and turning ideas into
   <h4>🔗 Connect with me on LinkedIn</h4>
   <a href="https://linkedin.com/in/ayyoub-amjahed-abed" target="_blank" rel="noopener noreferrer" style="display:inline-flex; align-items:center; gap:8px; text-decoration:none; color:#0A66C2; font-weight:600;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
-    <span>Ayyoub Amjahed Abed</span>
   </a>
 </section>
 
