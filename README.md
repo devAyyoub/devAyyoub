@@ -1,4 +1,4 @@
-<h3>Hi, I'm Ayyoub 💻</h3>
+<h3>Hi, I'm Ayyoub. I try to build things and enjoy the process 💻</h3>
 
 <p><strong>Currently working as a full stack software engineer at Sogeti (Capgemini).</strong>  
 I specialize in building scalable web applications using MERN (MongoDB, Express, React, Node.js) and PERN (PostgreSQL, Express, React, Node.js) stacks with TypeScript.  
