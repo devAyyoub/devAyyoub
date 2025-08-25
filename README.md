@@ -10,7 +10,7 @@ Passionate about programming, exploring new technologies, and turning ideas into
 <section>
   <h4>🗂️ Current Projects</h4>
   <ul>
-    <li><a href="https://micasaya.es" target="_blank" rel="noopener noreferrer" style="font-weight:bold; color:#007acc;">MiCasaYa - Innovative mid-term room rental platform</a></li>
+    <li><a href="https://www.micasaya.es" target="_blank" rel="noopener noreferrer" style="font-weight:bold; color:#007acc;">MiCasaYa - Innovative mid-term room rental platform</a></li>
   </ul>
 </section>
 
