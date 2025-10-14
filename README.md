@@ -5,8 +5,6 @@ I specialize in building scalable web applications using MERN (MongoDB, Express,
 Experienced in designing robust backend architectures with Spring Boot (Java) and microservices, leveraging OAuth2, JWT, Docker, and relational databases.  
 Passionate about programming, exploring new technologies, and turning ideas into impactful code.</p>
 
-<p>Feel free to reach out: <a href="mailto:Ayyoubamjahed@gmail.com">Ayyoubamjahed@gmail.com</a></p>
-
 <section>
   <a href="https://linkedin.com/in/ayyoub-amjahed-abed" target="_blank" rel="noopener noreferrer" style="display:inline-flex; align-items:center; gap:8px; text-decoration:none; color:#0A66C2; font-weight:600;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
